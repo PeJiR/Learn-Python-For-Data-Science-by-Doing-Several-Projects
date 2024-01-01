@@ -40,7 +40,7 @@
 Simply clone the repository to your local machine
 
 ```sh
-pejir
+https://github.com/PeJiR/Learn-Python-For-Data-Science-by-Doing-Several-Projects.git
 ```
 
 ## Usage
